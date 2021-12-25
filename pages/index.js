@@ -21,11 +21,10 @@ export default function Home() {
         <Center />
 
         {/* main content */}
-
-        <div className="sticky bottom-0">
-          <Player />
-        </div>
       </main>
+      <div className="sticky bottom-0 ">
+        <Player />
+      </div>
     </div>
   );
 }

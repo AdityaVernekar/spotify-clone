@@ -43,7 +43,7 @@ function Center() {
   console.log("playlist", playlist);
 
   return (
-    <div className=" flex-grow text-gray-500 overflow-scroll overflow-x-hidden scrollbar-hide">
+    <div className=" flex-grow text-gray-500 overflow-y-scroll scrollbar-hide">
       <header className="absolute top-5 right-10">
         <div
           className="flex items-center bg-black space-x-3 opacity-90 hover:opacity-80 cursor-pointer rounded-full p-1 pr-2"
