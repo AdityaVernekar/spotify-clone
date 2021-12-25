@@ -1,5 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Spotify Clone using the spotidy dev API
+You can select playlists and songs from the sidebar to play them.
+Added a debounce function to the volume bar to prevent the API from being called too often.
+Authorisation using next-spotify-auth
+you can check below the images of how this clone looks
+![Screenshot (16)](https://user-images.githubusercontent.com/70686011/147380604-0fec1612-6c22-448c-a725-fd959535e4b6.png)
+![Screenshot (17)](https://user-images.githubusercontent.com/70686011/147380611-a61f1511-a936-42aa-9380-2d8c5421c515.png)
+
+
+
 ## Getting Started
 
 First, run the development server:
